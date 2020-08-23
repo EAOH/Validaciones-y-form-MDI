@@ -1,0 +1,12 @@
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\obj\Debug\Pruebas.Form1.resources
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.cache
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\obj\Debug\Pruebas.Form2.resources
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\obj\Debug\Pruebas.Form3.resources
+C:\Users\Familia Hernandez\Desktop\Elio\Pruebas\Pruebas\obj\Debug\Pruebas.csprojAssemblyReference.cache
